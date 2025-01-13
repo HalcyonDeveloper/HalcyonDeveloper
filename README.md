@@ -9,7 +9,7 @@
 
 - 🌐 my porfolio available at [https://juanpineroportfolio.netlify.app/](https://juanpineroportfolio.netlify.app/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalcyonDeveloper&show_icons=true&bg_color=00000000)
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
